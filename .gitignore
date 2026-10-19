@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.env
+.env.local
+*.log
+.DS_Store
+next-env.d.ts
+dist
+prisma/migrations/dev.db
+
+# TypeScript build info
+*.tsbuildinfo
