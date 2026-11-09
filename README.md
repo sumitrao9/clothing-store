@@ -95,3 +95,11 @@ deliberately called out here instead of quietly shipped.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Support / Hosted / Hire
+- **Hosted/Pro**: need a managed 24/7 endpoint, API keys, quotas, or integration help? Open an issue: https://github.com/sumitrao9/clothing-store/issues
+- **Sponsor**: GitHub Sponsors (FUNDING.yml) supports maintenance.
+- **Hire/Consulting**: custom features, deployment, or automation workflows (authorized use only).
+
+*Built by [Sumit Yadav](https://github.com/sumitrao9). Authorized/ethical use only.*
+
